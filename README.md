@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Android, Machine Learning**
+- 💬 Ask me about **iOS, Android, Machine Learning**
 
 - 📫 How to reach me **vanieka.sharma2019@vitbhopal.ac.in**
 
