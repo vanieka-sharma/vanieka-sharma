@@ -1,28 +1,131 @@
-### Hi there 👋
+ 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vanieka</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+# Hey there, I'm Vanieka! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanieka-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="vanieka-sharma" /> </p>
+### 📱 iOS Developer | Swift & SwiftUI | AI/ML Enthusiast
 
-- 🌱 I’m currently learning **Blockchain**
+*Building thoughtful mobile experiences, exploring new technologies, and turning ideas into real-world applications.*
 
-- 💬 Ask me about **iOS, Android, Machine Learning**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanieka-sharma/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanieka-sharma)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supervanieka123@gmail.com)
 
-- 📫 How to reach me **supervanieka123@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=vanieka-sharma&label=Profile%20Views&color=blueviolet&style=flat)
 
-- ⚡ Fun fact **A creative person**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 👩🏻‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanieka-sharma&show_icons=true&locale=en&layout=compact" alt="vanieka-sharma" /></p>
+I'm an **iOS Developer with 3+ years of professional experience**, previously working as a **Senior Software Engineer at John Deere**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanieka-sharma&show_icons=true&locale=en" alt="vanieka-sharma" /></p>
+I love building intuitive mobile applications, solving challenging engineering problems, and exploring how emerging technologies can improve everyday experiences.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanieka-sharma&" alt="vanieka-sharma" /></p>
+- 📱 Experienced in **Swift, SwiftUI, UIKit, and iOS application development**
+- 🏗️ Worked with **MVVM, MVI, modular architecture, and modern navigation**
+- 🤖 Exploring **AI-assisted development, AI agents, MCP servers, and automation**
+- 🧠 Built an **AI/ML-powered object detection prototype** using Core ML and Vision
+- 🏆 **Hackathon Winner** for an innovative computer vision solution
+- ⚡ Interested in **performance optimization, clean architecture, and developer productivity**
+- 🌱 Currently exploring **Swift Concurrency, SwiftData, and modern iOS technologies**
+- 💬 Ask me about **iOS Development, SwiftUI, Mobile Architecture, or AI integration**
+
+---
+
+### 🛠️ Tech Stack
+
+**📱 Mobile Development**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**🏗️ Frameworks & Architecture**
+
+`SwiftUI` · `UIKit` · `Combine` · `Core Data` · `Core ML` · `Vision` · `MapKit` · `MVVM` · `MVI` · `REST APIs`
+
+**🤖 AI, ML & Developer Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+`AI Agents` · `MCP Servers` · `OpenAI Codex` · `Create ML` · `Computer Vision` · `Automation`
+
+**⚙️ DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+`Azure DevOps` · `Datadog` · `Adobe Analytics` · `CI/CD` · `Fastlane`
+
+---
+
+### 🚀 Things I've Worked On
+
+**🔍 AI-Powered Object Detection**
+- Developed a computer vision prototype to recognize tractor controls using an iPhone camera.
+- Integrated Core ML and Vision for on-device object detection.
+- Won a company-level hackathon for the solution.
+
+**📱 iOS Application Development**
+- Built and enhanced features for enterprise-scale iOS applications.
+- Worked on navigation modernization, deep linking, maintenance workflows, and API integrations.
+- Improved application stability, performance, analytics, and user experience.
+
+**🤖 AI-Powered Developer Productivity**
+- Explored AI agents, reusable skills, prompts, and MCP server integrations.
+- Connected engineering workflows with tools such as Azure DevOps, Figma, and Datadog.
+- Leveraged AI-assisted development for code modernization and architecture improvements.
+
+**⚙️ Automation & CI/CD**
+- Contributed to CI/CD pipeline migrations and developer workflow improvements.
+- Built automation solutions to simplify content management and deployment.
+
+---
+
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=vanieka-sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<a href="https://github.com/vanieka-sharma">
+  <img src="https://img.shields.io/badge/View_My_GitHub_Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity" />
+</a>
+
+</div>
+
+---
+
+### 🌸 Beyond the Code
+
+When I'm not debugging or building something, you'll probably find me:
+
+- 📚 Reading a good mystery or thriller
+- 🏋🏻‍♀️ Working out or going for a run
+- 🎥 Creating content and experimenting with new ideas
+- ✈️ Exploring new places
+- ☕ Enjoying coffee while planning my next project
+
+---
+
+<div align="center">
+
+### 💌 Let's Connect!
+
+*Always happy to connect with fellow developers, exchange ideas, and explore interesting opportunities.*
+
+**Code. Create. Learn. Repeat. ✨**
+
+</div>
