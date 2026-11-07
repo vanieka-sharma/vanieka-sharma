@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **iOS, Android, Machine Learning**
 
-- 📫 How to reach me **vanieka.sharma2019@vitbhopal.ac.in**
+- 📫 How to reach me **supervanieka123@gmail.com**
 
 - ⚡ Fun fact **A creative person**
 
